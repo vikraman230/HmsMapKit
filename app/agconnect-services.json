@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-dra.dbankcloud.cn",
+		"url":"connect-dra.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"2640091000002288322",
+		"product_id":"736430079244636410",
+		"client_id":"452689998290879680",
+		"client_secret":"3CD5BF5E851AFFA1417A21C4F1F9F8102BF6C2061628E0762BB9CA9B717F899F",
+		"app_id":"102904089",
+		"package_name":"com.example.hmsmapkit",
+		"api_key":"CgB6e3x971tTxn/2P4P1qspdEI3A0vvJFd9J5uI2qgx9E8YY95w25uxIuMQffaJrONZGhlL72WWi3Zy1zlsHbVJN"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dra.dt.hicloud.com,datacollector-dra.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dra.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dra.ai.dbankcloud.com,ml-api-dra.ai.dbankcloud.cn"
+		}
+	},
+	"region":"SG",
+	"configuration_version":"1.0"
+}

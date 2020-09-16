@@ -1,0 +1,3 @@
+include ':HmsMaplibrary'
+include ':app'
+rootProject.name = "HmsMapKit"
